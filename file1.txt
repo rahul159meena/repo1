@@ -1,0 +1,4 @@
+S.No. 	Name	 Batch	 Tool
+1	Rahul	 ix	Jenkins
+2	Pinky	 x	sonarqube	
+3       Jitu     xi     salesforce
